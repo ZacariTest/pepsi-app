@@ -1,0 +1,17 @@
+/* Estilos para el cuerpo */
+body {
+    background-color: #eaeaea; /* Color de fondo */
+}
+
+/* Estilos para la barra de navegación y footer */
+.navbar, .footer {
+    background-color: #004B93; /* Color azul oscuro de Pepsi */
+    color: white;
+}
+
+/* Estilos para elementos específicos */
+.publicidad, .imagenes-portada {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,12 @@
+El proyecto usara una base de datos SQLite.
+
+El registro y login de usuarios esta funcional. 
+
+Usuario de prueba: testuser
+contraseña: password
+
+Para trabajar en el proyecto utilizo en la terminal.
+
+php artisan serve y npm run dev 
+
+Aun estoy trabajando en el diseño, este es el modelo inicial del proyecto.
